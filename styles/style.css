@@ -1016,7 +1016,7 @@ section.welcome .next-img {
   display: block;
   margin: 0 auto 2rem;
   width: 5rem;
-  aspect-ratio: 1;
+  height: 5rem;
   object-fit: cover;
   object-position: center center;
   border-radius: 50%;
